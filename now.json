@@ -2,6 +2,6 @@
   "type": "npm",
   "env": {
     "NODE_ENV": "production",
-    "API_KEY": "@apiKey"
+    "API_KEY": 45595
   }
 }
