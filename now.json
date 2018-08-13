@@ -1,7 +1,7 @@
 {
-  "type": "npm",
+  "type": "static",
   "env": {
-    "NOW_ABC": "1"
+    "NODE_ENV": "production"
   }
 }
 
