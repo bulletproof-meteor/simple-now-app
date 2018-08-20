@@ -1,3 +1,2 @@
-FROM alpinejhjhgjh
-RUN sleep 20
+FROM alpine
 RUN mkdir /public && echo "Hello" > /public/index.txt
